@@ -1,1 +1,1 @@
-# Neural-Networks-and-Machine-Learning
+# Image classification using Convolutional Neural Networks(CNN)

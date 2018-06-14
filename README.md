@@ -21,25 +21,26 @@
 Notes: 
 
    * To classify the Images, we must do trainning followed by classification.
-   * data folder will look like this.
+   * My dataset folder (named "data") will look like this.
         
-                data/
-            train/
-                elephant/
-                    ele001.jpg
-                    ele002.jpg
-                    ...
-                others/
-                    other001.jpg
-                    other002.jpg
-                    ...
-            validation/
-                elephant/
-                    ele801.jpg
-                    ele802.jpg
-                    ...
-                others/
-                    other801.jpg
-                    other802.jpg
-                    ...
+                  data/
+                      train/
+                          elephant/
+                              ele001.jpg
+                              ele002.jpg
+                              ...
+                          others/
+                              other001.jpg
+                              other002.jpg
+                              ...
+                      validation/
+                          elephant/
+                              ele801.jpg
+                              ele802.jpg
+                              ...
+                          others/
+                              other801.jpg
+                              other802.jpg
+                              ...
    * Refer Keras documentation url : https://keras.io/  which is well explained how to explore keras framework.
+   * Visulization folder contained output from each layer. (using elephant image)
